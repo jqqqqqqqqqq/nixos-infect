@@ -1,3 +1,5 @@
+# TUNA Edition
+
 This script aims to install NixOS on Digital Ocean droplets, Vultr servers, or
 OVH Virtual Private Servers (starting from distros that these services support
 out of the box).
